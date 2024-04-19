@@ -1,0 +1,10 @@
+.titulo{
+    justify-content: center;
+    display:flex;
+    
+}
+
+.foto{
+    display: block;
+    max-width: 5%;
+}
