@@ -1,10 +1,6 @@
-.titulo{
-    justify-content: center;
-    display:flex;
+Body{
+    background-color: black;
+    color: antiquewhite;
     
 }
 
-.foto{
-    display: block;
-    max-width: 5%;
-}
